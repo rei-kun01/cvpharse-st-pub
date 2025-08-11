@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+python-docx
+spacy
+nltk
+transformers
+docx2txt
+torch
+langdetect
+fastapi["standard"]
